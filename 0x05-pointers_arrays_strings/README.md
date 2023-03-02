@@ -1,1 +1,1 @@
-Arrays
+Strings
